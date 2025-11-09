@@ -1,0 +1,6 @@
+The project Bank data analysis where I 
+1.separate the frequency table of each column form categorical and numerical columns
+2.prepared the charts of frequency count 
+3.analysis of outilear 
+4.prepared outilear data chart
+5.Handeld outilear
